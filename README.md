@@ -12,3 +12,7 @@ It needs to have pop-up windows? for media (so you can zoom into pictures and pl
 It was originally planned to be able to print the current chat to a printer
 
 Other than that it should have no trouble reading any of the XML files created by the backup tool
+
+I threw this together in a weekend ... :D 
+
+ENJOY!
