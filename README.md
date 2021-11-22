@@ -4,6 +4,7 @@
 This is a simple Qt-based viewer for the archives created by the SMS BAckup and Restore app from SynTech Pty Ltd.
 
 https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore
+
 https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestorePro
 
 It is still ion need of a better chat window rendering viewer
